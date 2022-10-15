@@ -1,0 +1,1 @@
+List<String?> movieTypes=['Action','Sci-fi','Horror','Comedy','Thriller'];
